@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/7_option-ghp/static/css/main.c8e93091.chunk.css",
+    "main.js": "/7_option-ghp/static/js/main.2a5af531.chunk.js",
+    "main.js.map": "/7_option-ghp/static/js/main.2a5af531.chunk.js.map",
+    "runtime-main.js": "/7_option-ghp/static/js/runtime-main.058f1f15.js",
+    "runtime-main.js.map": "/7_option-ghp/static/js/runtime-main.058f1f15.js.map",
+    "static/js/2.d24dbe08.chunk.js": "/7_option-ghp/static/js/2.d24dbe08.chunk.js",
+    "static/js/2.d24dbe08.chunk.js.map": "/7_option-ghp/static/js/2.d24dbe08.chunk.js.map",
+    "index.html": "/7_option-ghp/index.html",
+    "precache-manifest.0d11072cc8eb96273341a3b7591f625c.js": "/7_option-ghp/precache-manifest.0d11072cc8eb96273341a3b7591f625c.js",
+    "service-worker.js": "/7_option-ghp/service-worker.js",
+    "static/css/main.c8e93091.chunk.css.map": "/7_option-ghp/static/css/main.c8e93091.chunk.css.map",
+    "static/media/fonts.css": "/7_option-ghp/static/media/GothamPro-Medium.7099ae8b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.058f1f15.js",
+    "static/js/2.d24dbe08.chunk.js",
+    "static/css/main.c8e93091.chunk.css",
+    "static/js/main.2a5af531.chunk.js"
+  ]
+}
